@@ -1,1 +1,4 @@
 /target
+.claude/
+uart_console_settings.json
+uart_export_*.csv
